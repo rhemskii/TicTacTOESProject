@@ -1,0 +1,1 @@
+void bot_main(int*& board);
